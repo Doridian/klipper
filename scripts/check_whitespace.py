@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 # Check files for whitespace problems
 #
 # Copyright (C) 2018  Kevin O'Connor <kevin@koconnor.net>

@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 # Generate extruder pressure advance motion graphs
 #
 # Copyright (C) 2019-2020  Kevin O'Connor <kevin@koconnor.net>

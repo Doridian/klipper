@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 # Script to graph motion results
 #
 # Copyright (C) 2019-2020  Kevin O'Connor <kevin@koconnor.net>
