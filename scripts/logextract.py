@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # Script to extract config and shutdown information file a klippy.log file
 #
 # Copyright (C) 2017  Kevin O'Connor <kevin@koconnor.net>

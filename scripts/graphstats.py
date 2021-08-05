@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # Script to parse a logging file, extract the stats, and graph them
 #
 # Copyright (C) 2016-2019  Kevin O'Connor <kevin@koconnor.net>

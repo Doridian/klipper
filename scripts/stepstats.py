@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # Script to calculate stats for each stepper from a log of messages
 #
 # Copyright (C) 2016  Kevin O'Connor <kevin@koconnor.net>
