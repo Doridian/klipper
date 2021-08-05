@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Script to parse a logging file, extract the stats, and graph them
 #
-# Copyright (C) 2016-2019  Kevin O'Connor <kevin@koconnor.net>
+# Copyright (C) 2016-2021  Kevin O'Connor <kevin@koconnor.net>
 #
 # This file may be distributed under the terms of the GNU GPLv3 license.
 import optparse, datetime
